@@ -1,0 +1,228 @@
+{
+	"omschrijving": "data voor MOX app",
+	"profiel": {
+		"naam": "huub",
+		"gewicht": 105,
+		"lengte": 180
+	},
+	"week1": [
+		{
+	
+			"totaaltijd": 2.20,
+			"maandag": [
+		     	{
+					"activiteit": "wandelen",
+					"tijd": 0.50,
+					"hartslag": 130,
+					"aantalstappen": 100
+		      	},
+				{
+					"activiteit": "tuinieren",
+					"tijd": 1.00,
+					"hartslag": 140,
+					"aantalstappen": 300
+				},
+				{
+					"activiteit": "huishouden",
+					"tijd": 0.70,
+					"hartslag": 131,
+					"aantalstappen": 600
+				}
+		    ]
+		},
+		{
+			"totaaltijd": 1.50,
+		    "dinsdag": [
+				{
+					"activiteit": "dansen",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "boodschappen doen",
+					"tijd": 0.50,
+					"hartslag": 140,
+					"aantalstappen": 300
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.00,
+		    "woensdag": [
+				{
+					"activiteit": "huishouden",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 0.70,
+		    "donderdag": [
+				{
+					"activiteit": "wandelen",
+					"tijd": 0.20,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "tuinieren",
+					"tijd": 0.50,
+					"hartslag": 140,
+					"aantalstappen": 300
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.00,
+		    "vrijdag": [
+				{
+					"activiteit": "fietsen",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 0.50,
+		    "zaterdag": [
+				{
+					"activiteit": "dansen",
+					"tijd": 0.50,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 2.15,
+		    "zondag": [
+				{
+					"activiteit": "fietsen",
+					"tijd": 2.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "huishouden",
+					"tijd": 0.15,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		}
+	],
+	"week2":[
+		{
+	
+			"totaaltijd": 0.90,
+			"maandag": [
+		     	{
+					"activiteit": "wandelen",
+					"tijd": 0.20,
+					"hartslag": 130,
+					"aantalstappen": 100
+		      	},
+				{
+					"activiteit": "huishouden",
+					"tijd": 0.20,
+					"hartslag": 140,
+					"aantalstappen": 300
+				},
+				{
+					"activiteit": "wandelen",
+					"tijd": 0.50,
+					"hartslag": 131,
+					"aantalstappen": 600
+				}
+		    ]
+		},
+		{
+			"totaaltijd": 1.50,
+		    "dinsdag": [
+				{
+					"activiteit": "tuinieren",
+					"tijd": 0.50,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "boodschappen doen",
+					"tijd": 1.00,
+					"hartslag": 140,
+					"aantalstappen": 300
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.00,
+		    "woensdag": [
+				{
+					"activiteit": "dansen",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 0.50,
+		    "donderdag": [
+				{
+					"activiteit": "wandelen",
+					"tijd": 0.20,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "wandelen",
+					"tijd": 0.30,
+					"hartslag": 140,
+					"aantalstappen": 300
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.00,
+		    "vrijdag": [
+				{
+					"activiteit": "fietsen",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.50,
+		    "zaterdag": [
+				{
+					"activiteit": "dansen",
+					"tijd": 1.50,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		},
+		{
+			"totaaltijd": 1.10,
+		    "zondag": [
+				{
+					"activiteit": "boodschappen doen",
+					"tijd": 1.00,
+					"hartslag": 130,
+					"aantalstappen": 100
+				},
+				{
+					"activiteit": "tuinieren",
+					"tijd": 0.10,
+					"hartslag": 130,
+					"aantalstappen": 100
+				}
+	    	]
+		}
+	]
+}
